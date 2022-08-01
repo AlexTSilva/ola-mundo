@@ -1,2 +1,4 @@
-# ola mundo
+# olá, Mundo!
  Primeiro repositorio versionado
+
+ repositório de teste, visando aprendizagem
